@@ -1,0 +1,1 @@
+LinkedStack class that exhibits the behavior of a stack yet comprised of a general Node Objects.
